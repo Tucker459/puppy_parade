@@ -120,6 +120,7 @@ Most dogs any walker has: 3
 # Results 
 
 Programming Choice: SQL & Python
+
 Database: Postgres 10.0
 
 Running the Code:
