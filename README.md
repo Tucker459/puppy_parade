@@ -1,7 +1,7 @@
 # puppy_parade
 
 --------
-Go to the Results sections to see my comments about the data model, languages, and programming lanaguage used. 
+Go to the Results sections to see my comments about the data model, database, and programming lanaguages used. 
 --------
 
 
